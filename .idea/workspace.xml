@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b75341f1-d4e4-4d52-a358-99798e11cd90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheapter5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_01/NumberClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_02/NumberClassifierAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_03/CountDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_04/CompareFirstAndLastLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_05/CompareHalfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_06/CompareThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_07/CheckNumbersOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_08/CheckNumbersOrderPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_09/CheckOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_10/TwoPairsCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_11/CompassDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_14/GreadConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_14/GreadConvertMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_15/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_15/IncomeTaxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_17/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_18/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_19/FloatingCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_20/VowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_20/VowelConsonantMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_21/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_21/MonthMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_22/PaycheackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_22/Paycheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_23/DiscountCoupons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_24/Temparature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E5_25/BoilingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Tv8fEiED3Wm1trN61hnGfvaGkN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java_project/cheapter5/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.NumberClassifierAdd">
+    <configuration name="FloatingCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5_19.FloatingCompare" />
+      <module name="cheapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E5_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncomeTaxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5_15.IncomeTaxMain" />
+      <module name="cheapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E5_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5_17.Maximum" />
+      <module name="cheapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E5_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberClassifierAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5_02.NumberClassifierAdd" />
+      <module name="cheapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E5_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5_18.Sort" />
+      <module name="cheapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E5_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberClassifierAdd" />
+        <item itemvalue="Application.IncomeTaxMain" />
+        <item itemvalue="Application.Maximum" />
+        <item itemvalue="Application.FloatingCompare" />
+        <item itemvalue="Application.Sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75341f1-d4e4-4d52-a358-99798e11cd90" name="Changes" comment="" />
+      <created>1691912298129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691912298129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
